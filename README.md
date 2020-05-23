@@ -1,6 +1,6 @@
 # Refactor-Accessibility
 Refactored Horiseon website for improved accessibility and semantic HTML.
-Link to deployed site: https://kaitekelly.github.io/Refractor-Accessibility/
+Link to deployed site: https://kaitekelly.github.io/Refactor-Accessibility-Horiseon/
 
 
 In is refactoring assignment, I improved accessibility and html semantics by adding alt descriptions to the the images and consolidated css tags so there were not so many individual tags. I also added comments to the css classes and id's so future developers will easily understand which section of the page each style controls.
